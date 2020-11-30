@@ -1,0 +1,11 @@
+D:\SEMESTER 3\GITHUB\Sistem Informasi Restoran\Sistem Informasi Restoran\obj\Debug\Sistem Informasi Restoran.vbprojAssemblyReference.cache
+D:\SEMESTER 3\GITHUB\Sistem Informasi Restoran\Sistem Informasi Restoran\obj\Debug\Sistem_Informasi_Restoran.Menu_Makanan.resources
+D:\SEMESTER 3\GITHUB\Sistem Informasi Restoran\Sistem Informasi Restoran\obj\Debug\Sistem_Informasi_Restoran.Resources.resources
+D:\SEMESTER 3\GITHUB\Sistem Informasi Restoran\Sistem Informasi Restoran\obj\Debug\Sistem Informasi Restoran.vbproj.GenerateResource.cache
+D:\SEMESTER 3\GITHUB\Sistem Informasi Restoran\Sistem Informasi Restoran\bin\Debug\Sistem Informasi Restoran.exe.config
+D:\SEMESTER 3\GITHUB\Sistem Informasi Restoran\Sistem Informasi Restoran\bin\Debug\Sistem Informasi Restoran.exe
+D:\SEMESTER 3\GITHUB\Sistem Informasi Restoran\Sistem Informasi Restoran\bin\Debug\Sistem Informasi Restoran.pdb
+D:\SEMESTER 3\GITHUB\Sistem Informasi Restoran\Sistem Informasi Restoran\bin\Debug\Sistem Informasi Restoran.xml
+D:\SEMESTER 3\GITHUB\Sistem Informasi Restoran\Sistem Informasi Restoran\obj\Debug\Sistem Informasi Restoran.exe
+D:\SEMESTER 3\GITHUB\Sistem Informasi Restoran\Sistem Informasi Restoran\obj\Debug\Sistem Informasi Restoran.xml
+D:\SEMESTER 3\GITHUB\Sistem Informasi Restoran\Sistem Informasi Restoran\obj\Debug\Sistem Informasi Restoran.pdb
